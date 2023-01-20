@@ -6,7 +6,7 @@
 ## Introduction
 Projet réalisé dans le cadre de ma première année de cycle ingénieur visant à comprendre et programmer un algorithme KNN.
 
-Nous disposons d’une base de données d’apprentissage constituée d’individus dont on connaît la classe. La méthode des k plus proches voisins consiste à sélectionner les k individus les plus proches en termes de distance (distance euclidienne dans notre cas). C’est en retenant la classe la plus représentée des k voisins qu’on déterminera la nature de l’individu testé.![image](https://user-images.githubusercontent.com/60775531/213713958-225d446e-d0fd-4049-831f-5ca0043ef265.png)
+Nous disposons d’une base de données d’apprentissage constituée d’individus dont on connaît la classe. La méthode des k plus proches voisins consiste à sélectionner les k individus les plus proches en termes de distance (distance euclidienne dans notre cas). C’est en retenant la classe la plus représentée des k voisins qu’on déterminera la nature de l’individu testé.
 
 
 ## Projet
